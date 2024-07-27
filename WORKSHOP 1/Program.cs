@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace WORKSHOP_1
+namespace Workshop1_MHLGIV006
 {
     internal static class Program
     {

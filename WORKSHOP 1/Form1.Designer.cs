@@ -1,4 +1,4 @@
-﻿namespace WORKSHOP_1
+﻿namespace Workshop1_MHLGIV006
 {
     partial class Form1
     {

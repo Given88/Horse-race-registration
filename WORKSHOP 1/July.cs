@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
+using System.Text;  
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace WORKSHOP_1
+namespace Workshop1_MHLGIV006
 {
     internal class July
     {
