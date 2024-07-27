@@ -19,8 +19,6 @@ namespace WORKSHOP_1
             july = new July();
         }
 
-
-        
         private void add_btn_Clicked(object sender, EventArgs e)
         {
 

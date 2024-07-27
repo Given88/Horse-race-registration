@@ -9,10 +9,10 @@ namespace WORKSHOP_1
 {
     internal class Horse
     {
-        private string Name;
-        private int Age;
-        private int Height;
-        private double[] Times;
+        private string Name { get; set; }
+        private int Age { get; set; }
+        private int Height { get; set; }
+        private double[] Times { get; set; }
 
         public Horse() { }
         public Horse(string name, int age, int height, double[] times)
